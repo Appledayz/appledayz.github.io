@@ -1,4 +1,4 @@
 # appledayz.github.io
 
-[this page](https://appledayz.github.io)
-[Pomodoro](https://appledayz.github.io/Flutter_Prac_Pomodoro)
+[Prac_Tetris](https://appledayz.github.io)
+[Prac_Flutter_Pomodoro](https://appledayz.github.io/Flutter_Prac_Pomodoro)
